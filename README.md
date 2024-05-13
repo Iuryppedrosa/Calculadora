@@ -14,8 +14,8 @@ Este é um projeto de calculadora desenvolvido em Java com uma interface gráfic
 
 Aqui está um exemplo de como a calculadora se parece:
 
-![Calculadora](https://private-user-images.githubusercontent.com/89420889/319290591-04146f90-ba5e-4c8d-9332-0fee219f2aee.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzMDk2OTIsIm5iZiI6MTcxMzMwOTM5MiwicGF0aCI6Ii84OTQyMDg4OS8zMTkyOTA1OTEtMDQxNDZmOTAtYmE1ZS00YzhkLTkzMzItMGZlZTIxOWYyYWVlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE2VDIzMTYzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlOGYyNDk5MzFkYjMzMzQ3MjY5MzU1NWRkZTQ2MWZlNTAwMWU5NzRlMzc0MTc0YjFiODlmMDkxMzY5ZWUwNTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.YhpNhphZ1blq_kt-6U8a4KcVV2DDKKVU8tw2Nbn-Bo4)
-
+![Calculadora](https://github.com/Iuryppedrosa/Calculadora/blob/master/319290591-04146f90-ba5e-4c8d-9332-0fee219f2aee.png?raw=true)
+![Calculadora2](https://github.com/Iuryppedrosa/Calculadora/blob/master/319290560-a6d74d4a-7292-4ae7-997e-02b0def359eb.png?raw=true)
 ## Estrutura do Projeto
 
 - `src/`
